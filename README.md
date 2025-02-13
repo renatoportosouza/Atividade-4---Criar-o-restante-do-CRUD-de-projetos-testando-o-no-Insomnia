@@ -1,4 +1,4 @@
-#Atividade de Desenvolvimento de API FullStack SENAI#
+# Atividade de Desenvolvimento de API FullStack SENAI
 
 ## Visão Geral
 Este projeto tem como objetivo a implementação do restante do CRUD para a API ExoApi. Você irá desenvolver os métodos necessários nas classes `ProjetosController.cs` e `ProjetoRepository.cs` para completar as operações de **Create, Read, Update e Delete** de projetos. Os testes serão realizados utilizando o Insomnia ou Postman.
